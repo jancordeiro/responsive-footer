@@ -1,2 +1,3 @@
-# responsive-footer
-Responsive Footer
+# Responsive Footer
+---
+Responsive footer using flexbox and grid on CSS
